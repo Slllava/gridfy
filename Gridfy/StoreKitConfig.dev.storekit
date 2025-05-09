@@ -1,0 +1,34 @@
+{
+  "identifier" : "6EFAF8B5",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "4.99",
+      "familyShareable" : false,
+      "localizations" : [
+        {
+          "description" : "Plus version includes five color themes.",
+          "displayName" : "Plus Version",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "plus_version",
+      "referenceName" : "Plus Version",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings": {
+  "_developerTeamID": "",
+  "_applicationInternalID": "",
+  "_askToBuyEnabled": false
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
