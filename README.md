@@ -12,7 +12,9 @@
 <p align="center">
 Build the perfect layout for your site or application.<br/>
 Calculate column widths quickly and get correct results. Gridfy is tailored for you - a creative and ambitious professional.
-<img src="media/src-head.png" width="80%">
+</p>
+<p align="center">
+    <img src="media/src-head.png" width="80%">
 </p>
 
 ## Features:
